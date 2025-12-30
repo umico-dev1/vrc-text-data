@@ -14,7 +14,8 @@
     "X": "https://x.com/mjcaferokoron",
     "Group": "grp_d20c8d00-51ae-47cc-8f73-ca0c893b3e92",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00000.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00000.png",
+    "TYPE": 0
   },
   {
     "Event_No": 1,
@@ -31,7 +32,8 @@
     "X": "https://x.com/ZSNGM_753",
     "Group": "grp_1ce199bb-a5cb-414e-bd91-86c04231e5a3",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00001.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00001.png",
+    "TYPE": 0
   },
   {
     "Event_No": 2,
@@ -48,7 +50,8 @@
     "X": "https://x.com/VRC_EPK",
     "Group": "grp_40edcfd3-6459-4327-a3f1-00075224fca3",
     "Discord": "https://discord.gg/qCjKmxJQ",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00002.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00002.png",
+    "TYPE": 0
   },
   {
     "Event_No": 3,
@@ -65,7 +68,8 @@
     "X": "https://x.com/2manMahjong",
     "Group": "grp_8beeb7ed-a506-41e0-a8b5-552c86356959",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00003.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00003.png",
+    "TYPE": 0
   },
   {
     "Event_No": 4,
@@ -82,7 +86,8 @@
     "X": "https://x.com/kasyu215",
     "Group": "grp_8a8fa39a-cd01-4f5a-b5b5-b5322d029458",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00004.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00004.png",
+    "TYPE": 0
   },
   {
     "Event_No": 5,
@@ -99,7 +104,8 @@
     "X": "https://x.com/VRC_MLGround",
     "Group": "grp_94a797d1-7a4f-450a-a221-b761f5a6668c",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00005.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00005.png",
+    "TYPE": 0
   },
   {
     "Event_No": 6,
@@ -116,7 +122,8 @@
     "X": "https://x.com/SANKEN_VRC",
     "Group": "grp_fc0295fe-2c54-4e70-b0a7-64e066235b57",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00006.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00006.png",
+    "TYPE": 0
   },
   {
     "Event_No": 7,
@@ -133,7 +140,8 @@
     "X": "",
     "Group": "",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00007.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00007.png",
+    "TYPE": 0
   },
   {
     "Event_No": 8,
@@ -150,7 +158,8 @@
     "X": "https://x.com/mahjong_CLeague",
     "Group": "grp_4245defd-ac1c-4304-895e-52111a246312",
     "Discord": "https://discord.gg/rK2JVAc8",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00008.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00008.png",
+    "TYPE": 0
   },
   {
     "Event_No": 9,
@@ -167,7 +176,8 @@
     "X": "",
     "Group": "",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00009.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00009.png",
+    "TYPE": 0
   },
   {
     "Event_No": 10,
@@ -184,7 +194,8 @@
     "X": "https://x.com/VRC_BARHonitsu",
     "Group": "grp_c3355d91-49bd-41ce-ba81-67847511dee6",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00010.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00010.png",
+    "TYPE": 0
   },
   {
     "Event_No": 11,
@@ -201,7 +212,8 @@
     "X": "https://x.com/afdsdasbsd",
     "Group": "grp_f0614084-c913-4fad-b616-ec8e805dc256",
     "Discord": "https://discord.gg/FM2N3N7j",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00011.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00011.png",
+    "TYPE": 0
   },
   {
     "Event_No": 12,
@@ -215,10 +227,11 @@
     "Join": "事前抽選にご応募ください。",
     "Detail": "妖怪・幽霊・人間など、\nさまざまな種族のキャストたちがあなたの麻雀を見守りながら、\n茶々を入れちょっかいをかけてくる怪しげな雀荘接客イベントです。 \nまた、不定期でキャストと一緒に卓を囲む機会もございます。",
     "Precautions": "キャストへのフレンド申請、\nならびにNSFWに当たるアバターの使用・行為はお断りしております。\n当店のコンセプトなどの詳細は、\n事前抽選受付フォームにてご確認いただけます。",
-    "X": "",
+    "X": "https://x.com/VRC_MYMY",
     "Group": "",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00012.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00012.png",
+    "TYPE": 0
   },
   {
     "Event_No": 13,
@@ -231,11 +244,12 @@
     "Host": "TERA（テラ）",
     "Join": "フレンドにJoinまたはSIISAN.3271に参加",
     "Detail": "麻雀を打つも良し、誰かと話すも良し、\nモニターの映像を見て雑談するも良しなイベントです。",
-    "Precautions": "SIISAN.3271の注意事項にご注意ください。\n\n当日インスタンスをGroup+で開催します。\nまた毎月最終火曜日に麻雀教室を開催しております。",
+    "Precautions": "グループの注意事項をご確認ください。\n\n当日インスタンスをGroup+で開催します。\nまた毎月最終火曜日に麻雀教室を開催しております。",
     "X": "https://x.com/__terrrrrra__",
     "Group": "grp_10abedc2-883c-454d-9ab4-49042f1feaa3",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00013.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00013.png",
+    "TYPE": 0
   },
   {
     "Event_No": 14,
@@ -244,15 +258,16 @@
     "Date and Time_1": "(不定期)",
     "List_Event_Name": "(不定期) 牌遊サロン 緑風-Leefeng-",
     "Event_Name": "牌遊サロン 緑風-Leefeng-",
-    "Date and Time_2": "",
-    "Host": "",
-    "Join": "",
-    "Detail": "",
-    "Precautions": "",
-    "X": "",
-    "Group": "",
+    "Date and Time_2": "不定期 月２～３回",
+    "Host": "雨月［Ugetsu］",
+    "Join": "リクイン",
+    "Detail": "麻雀＋１対１個室接客のイベント。\n麻雀の勝敗によって接客内容が変化します。\n緊張感のある勝負と個室接客を楽しめるイベントです。",
+    "Precautions": "invite形式のインスタンスとなります。\n参加方法は公式のイベント告知をご確認ください。\nデスクトップは参加不可となります。",
+    "X": "https://x.com/MJ_LeefengVRC",
+    "Group": "grp_a83aba3d-e8f3-4fc7-bd79-518c7058a387",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00014.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00014.png",
+    "TYPE": 0
   },
   {
     "Event_No": 15,
@@ -269,7 +284,8 @@
     "X": "https://x.com/kakutyu_vrc",
     "Group": "grp_f85f4100-0cb5-4cbb-a7f2-e0b0175d99da",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00015.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00015.png",
+    "TYPE": 0
   },
   {
     "Event_No": 16,
@@ -286,7 +302,8 @@
     "X": "https://x.com/kakutyu_vrc",
     "Group": "grp_f85f4100-0cb5-4cbb-a7f2-e0b0175d99da",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00016.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00016.png",
+    "TYPE": 0
   },
   {
     "Event_No": 17,
@@ -303,6 +320,25 @@
     "X": "",
     "Group": "",
     "Discord": "",
-    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00017.png"
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00017.png",
+    "TYPE": 1
+  },
+  {
+    "Event_No": 18,
+    "Disp_Order": 1,
+    "Date": 9,
+    "Date and Time_1": "",
+    "List_Event_Name": "(PC)　TANKI",
+    "Event_Name": "(PC)　TANKI",
+    "Date and Time_2": "",
+    "Host": "",
+    "Join": 24,
+    "Detail": "本格VR麻雀ワールド「TANKI」",
+    "Precautions": "",
+    "X": "https://x.com/TANKI_VRC",
+    "Group": "grp_9adc6f3a-c70d-4efb-a620-1866d2b8847d",
+    "Discord": "https://discord.gg/JhYe4Nqu",
+    "URL": "https://raw.githubusercontent.com/umico-dev1/vrc-images/main/poster/00018.png",
+    "TYPE": 1
   }
 ]
